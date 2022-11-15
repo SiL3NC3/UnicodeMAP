@@ -222,7 +222,7 @@
             <StackPanel Grid.Column="1" Orientation="Horizontal" Margin="4" HorizontalAlignment="Center">
                 <TextBlock Text="Made with 💙 for Unicode - Source code and release available at "/>
                 <TextBlock>
-                    <Hyperlink  NavigateUri="https://github.com/SiL3NC3/" Click="FooterLink_Click">Github.com</Hyperlink>
+                    <Hyperlink  NavigateUri="https://github.com/SiL3NC3/UnicodeMAP" Click="FooterLink_Click">Github.com</Hyperlink>
                 </TextBlock>
                 <TextBlock Text=" | Powered by "/>
                 <TextBlock>
